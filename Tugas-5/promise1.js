@@ -1,4 +1,4 @@
-//Soal 1
+//soal 1
 const myCountPromise = (input) => {
   return new Promise((resolve, reject) => {
       if (input !== undefined) {

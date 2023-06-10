@@ -1,3 +1,4 @@
+//soal 2
 function filterBooksPromise(colorful, amountOfPage) {
   return new Promise(function (resolve, reject) {
     var books = [
